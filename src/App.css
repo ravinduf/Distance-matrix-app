@@ -1,0 +1,25 @@
+.app {
+  height: 700px;
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.map {
+  height: 80%;
+  width: 100%;
+}
+
+.marker {
+  background-image: url('https://i.imgur.com/oz3r3Wq.png');
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  background-color: yellow;
+  border-radius: 11px;
+  border: solid 3px darkslategray ;
+}
+
+/* .mapboxgl-map {
+  width: 100% !important;
+  height: 100% !important;
+} */
